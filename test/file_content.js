@@ -42,6 +42,7 @@ function checkString(file, string, done) {
   });
 
 }
+alert("Hello world");
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
